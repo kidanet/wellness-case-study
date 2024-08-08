@@ -13,3 +13,5 @@ Analyzing correlations between fitness activities, sleep patterns, and other wel
 Exploring opportunities for Bellabeat product integration based on user behavior insights.
 Developing data-driven recommendations to enhance Bellabeat's marketing strategy.
 This case study demonstrates the application of data analysis techniques to address a real-world business challenge in the wellness industry.
+
+Sources and related content: https://rpubs.com/AnyuliE/1149316
